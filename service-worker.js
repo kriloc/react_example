@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kriloc/react_example/precache-manifest.1d52cda3943df4ad6e4684193910a2c6.js"
+  "/kriloc/react_example/precache-manifest.74a00cd382130df0187d93d4c1eb785e.js"
 );
 
 self.addEventListener('message', (event) => {

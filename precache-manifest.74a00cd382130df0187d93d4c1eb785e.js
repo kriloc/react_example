@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6bc63a718bcf38d8f62d46c4a9239f9",
+    "revision": "28d42d0a19cb2c9609bb2a81a99d87f3",
     "url": "/kriloc/react_example/index.html"
   },
   {
-    "revision": "f482cb645e428799ead4",
-    "url": "/kriloc/react_example/static/css/main.2e7f795f.chunk.css"
+    "revision": "31f99e2e7af7f768883e",
+    "url": "/kriloc/react_example/static/css/main.78d53840.chunk.css"
   },
   {
     "revision": "d8f175a6e002be4c20aa",
     "url": "/kriloc/react_example/static/js/2.a85963e6.chunk.js"
   },
   {
-    "revision": "f482cb645e428799ead4",
-    "url": "/kriloc/react_example/static/js/main.9ee06614.chunk.js"
+    "revision": "31f99e2e7af7f768883e",
+    "url": "/kriloc/react_example/static/js/main.679fa52d.chunk.js"
   },
   {
     "revision": "ed1cbf7bb993150f4f19",
